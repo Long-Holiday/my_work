@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+runs/
+prepared/
+SpaceNet3_AOI_2_Vegas/
+SpaceNet3_AOI_2_Vegas.zip
+*.pt
+*.pth
